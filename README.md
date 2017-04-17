@@ -17,7 +17,7 @@ jQuery plugin offering an simple interface to create complex queries.
 
 
 
-## Install - Modified - Again
+## Install - Monday!
 
 #### Manually
 
